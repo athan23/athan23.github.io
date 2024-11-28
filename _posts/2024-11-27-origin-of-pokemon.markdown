@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Origin of Pokemon"
-date:   2024-11-22 17:14:27 +0700
+date:   2024-11-27 17:14:27 +0700
 categories: jekyll update
 ---
 

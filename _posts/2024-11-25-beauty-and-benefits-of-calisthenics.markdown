@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Beauty and Benefits of Calisthenics"
-date:   2024-11-22 12:15:14 +0700
+date:   2024-11-25 12:15:14 +0700
 categories: jekyll update
 ---
 
