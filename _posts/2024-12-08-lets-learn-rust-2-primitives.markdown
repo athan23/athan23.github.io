@@ -24,36 +24,35 @@ There are two types of primitives in Rust:
 ### Tuples
 A collection of values of different types.
 ```rust
-    let long_tuple = (1u8, 2u16, 3u32, 4u64,
-                      -1i8, -2i16, -3i32, -4i64,
-                      0.1f32, 0.2f64,
-                      'a', true);
+let long_tuple = (1u8, 2u16, 3u32, 4u64,
+                    -1i8, -2i16, -3i32, -4i64,
+                    0.1f32, 0.2f64,
+                    'a', true);
 
-    // Accessing tuple
-    println!("Long tuple first value: {}", long_tuple.0);
-    println!("Long tuple second value: {}", long_tuple.1);
+// Accessing tuple
+println!("Long tuple first value: {}", long_tuple.0);
+println!("Long tuple second value: {}", long_tuple.1);
 ```
 
 ### Arrays
 A collection of objects of the same type.
 ```rust
-    let xs: [i32; 5] = [1, 2, 3, 4, 5];
+let xs: [i32; 5] = [1, 2, 3, 4, 5];
 
-    // All elements can be initialized to the same value.
-    let ys: [i32; 500] = [0; 500];
+// All elements can be initialized to the same value.
+let ys: [i32; 500] = [0; 500];
 
-    // Accessing array
-    println!("First element of the array: {}", xs[0]);
-    println!("Second element of the array: {}", xs[1]);
-
+// Accessing array
+println!("First element of the array: {}", xs[0]);
+println!("Second element of the array: {}", xs[1]);
 ```
 
 ### Slices
 Reference to elements in a collection.
 ```rust
-    let numbers = [1, 2, 3, 4, 5];
+let numbers = [1, 2, 3, 4, 5];
 
-    let slice = &array[1..3];
+let slice = &array[1..3];
 ```
 
 ## Annotation
