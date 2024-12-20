@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Let's Learn Rust 5 - Types"
-date:   2024-12-11 16:48:01 +0700
+date:   2024-12-12 16:48:01 +0700
 categories: jekyll update
 ---
 ## Casting
