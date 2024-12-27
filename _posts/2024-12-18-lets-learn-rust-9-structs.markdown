@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Let's Learn Rust 9 - Structs"
-date:   2024-12-17 17:22:08 +0700
+date:   2024-12-18 17:22:08 +0700
 categories: jekyll update
 ---
 Diving deeper into structs.
