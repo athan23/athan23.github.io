@@ -1,7 +1,7 @@
 ---
-layout: codegems
-title: CodeGems
-permalink: /codegems/
+layout: devcodex
+title: Dev Codex
+permalink: /devcodex/
 ---
 
 Here, you'll find a curated collection of concise, powerful, and reusable code snippets designed to make your development process smoother and more efficient. Whether you're looking for quick solutions, best practices, or innovative coding techniques, this page serves as your go-to developer toolkit. Stay tuned for more snippets that simplify, automate, and enhance your coding experience!
